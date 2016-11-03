@@ -1,5 +1,5 @@
 # CodeBook
-This codebook provides a brief summary on the data in `tidy.txt`
+This codebook provides a brief summary on the data in `UCI_HAR_tidy.txt`
 
 ## ID's / Key fields
 * `Subject_ID` - The subject ID / Identifies the person who participated in the experiment (Values `1` to `30`)
