@@ -5,5 +5,5 @@
 * 3: Load the descriptive data on subjects, activities and the variable names
 * 4: Load test and train data and create nice structure
 * 5: Merge the datasets and put everything into the same structure
-* 6: Group the data and calculate means
+* 6: Group the data by subject and activity and calculate means over all variables
 * 7: Write the finalised table into a text file called "tidy.txt"
